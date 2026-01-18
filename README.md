@@ -38,7 +38,7 @@ A beautiful and feature-rich Android weather application built with modern Andro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tanishpoddar/CelestialWeather-apk.git
+   git clone https://github.com/tanisheesh/CelestialWeather-apk.git
    cd CelestialWeather-apk
    ```
 
@@ -62,7 +62,7 @@ A beautiful and feature-rich Android weather application built with modern Andro
 
 ### For End Users
 
-Download the latest APK from the [Releases](https://github.com/tanishpoddar/CelestialWeather-apk/releases) section and install it on your Android device.
+Download the latest APK from the [Releases](https://github.com/tanisheesh/CelestialWeather-apk/releases) section and install it on your Android device.
 
 ## 📋 Requirements
 
@@ -125,7 +125,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/tanishpoddar/CelestialWeather-apk/issues) section
+1. Check the [Issues](https://github.com/tanisheesh/CelestialWeather-apk/issues) section
 2. Create a new issue with detailed information
 3. Include device information, Android version, and steps to reproduce
 

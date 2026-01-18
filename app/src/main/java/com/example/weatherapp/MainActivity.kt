@@ -79,7 +79,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<ImageView>(R.id.githubIcon).setOnClickListener {
-            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/tanishpoddar/CelestialWeather-apk"))
+            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/tanisheesh/CelestialWeather-apk"))
             startActivity(intent)
         }
 
